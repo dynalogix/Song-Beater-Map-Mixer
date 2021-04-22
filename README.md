@@ -6,7 +6,7 @@ This makes it possible to have some variability within auto-generated songs, e.g
 Pressing the "Merge" button will create a new subfolder called "merged" and place the composite level file (e.g. 4.json) and the updated sb.json file. Notes:
 
 * if you have a single MP4 video in the song folder, it will also be added into the sb.json file
-* if you have variants for multiple levels, merge will create all the composite levels (e.g. all 3-*.json files into 3.json, 4-*.json files into 4.json etc)
+* if you have variants for multiple levels, merge will create all the composite levels (e.g. all 3-&ast;.json files into 3.json, 4-&ast;.json files into 4.json etc)
 * merge will not overwrite existing level files in the "merged" subfolder. Delete them if you want to create a new one
 * on the device the song.ogg, mp4, cover.jpg and json files all need to be in a single folder
 * when updating a song on the device, you can just re-add the json files from the "merged" subfolder
