@@ -1,5 +1,6 @@
 # Song-Beater-Map-Mixer
 Mix multiple Song Beater auto-generated maps with various settings into a single composite map
+
 ![Screenshot](screenshot.jpg?raw=true "Screenshot") 
 
 How to use:
